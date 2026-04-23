@@ -1,4 +1,6 @@
 # Smart Campus - Sensor & Room Management API
+<p>Author : M.R.M.A.Malik<br>
+Student Id : w2121305</p>
 
 - ## Overview
 The Smart Campus API is a RESTful web service designed to manage rooms and sensors within a university campus. It supports operations such as creating rooms, assigning sensors, recording sensor readings, and retrieving structured data.
